@@ -9,9 +9,9 @@
 7. Finally, the total amount of money is calculated.
 <table>
   <tr>
-    <td><img src="./coin_detection/treino/P1000710s.jpg" alt="drawing" width="180" /></td>
-    <td><img src="./coin_detection/markdown_results/bin_image.png" alt="drawing"width="180"/></td>
-    <td><img src="./coin_detection/markdown_results/morph_image.png" alt="drawing"width="180"/></td>
+    <td><img src="./coin_detection/treino/P1000710s.jpg" alt="drawing" width="220" /></td>
+    <td><img src="./coin_detection/markdown_results/bin_image.png" alt="drawing"width="220"/></td>
+    <td><img src="./coin_detection/markdown_results/morph_image.png" alt="drawing"width="220"/></td>
 </tr>
   <tr>
     <td style="text-align: center;"><em>1. Input image</em></td>
@@ -23,9 +23,9 @@
 
 <table>
   <tr>
-    <td><img src="./coin_detection/markdown_results/countours.png" alt="drawing" width="180" /></td>
-    <td><img src="./coin_detection/markdown_results/excluded_objects.png" alt="drawing"width="180"/></td>
-    <td><img src="./coin_detection/markdown_results/result.png" alt="drawing"width="180"/></td>
+    <td><img src="./coin_detection/markdown_results/countours.png" alt="drawing" width="220" /></td>
+    <td><img src="./coin_detection/markdown_results/excluded_objects.png" alt="drawing"width="220"/></td>
+    <td><img src="./coin_detection/markdown_results/result.png" alt="drawing"width="220"/></td>
 </tr>
   <tr>
     <td style="text-align: center;"><em>4. Image with countours</em></td>
@@ -45,9 +45,9 @@
 
 <table>
   <tr>
-    <td><img src="./object_detection_video/markdown_image/difference_between_frames.png" alt="drawing" width="180" /></td>
-    <td><img src="./object_detection_video/markdown_image/countours.png" alt="drawing"width="180"/></td>
-    <td><img src="./object_detection_video/markdown_image/box.png" alt="drawing"width="180"/></td>
+    <td><img src="./object_detection_video/markdown_image/difference_between_frames.png" alt="drawing" width="220" /></td>
+    <td><img src="./object_detection_video/markdown_image/countours.png" alt="drawing"width="220"/></td>
+    <td><img src="./object_detection_video/markdown_image/box.png" alt="drawing"width="220"/></td>
 </tr>
   <tr>
     <td style="text-align: center;"><em>2. Difference between frames</em></td>
@@ -58,7 +58,7 @@
 
 <table>
   <tr>
-    <td><img src="./object_detection_video/markdown_image/path.png" alt="drawing" width="180" /></td>
+    <td><img src="./object_detection_video/markdown_image/path.png" alt="drawing" width="270" /></td>
 </tr>
   <tr>
     <td style="text-align: center;"><em>5. Draw path of objects</em></td>
